@@ -485,10 +485,10 @@ pip install pillow numpy matplotlib requests
 
 # Запуск программы
 
-Запуск исправленного варианта для варианта 9:
+Запуск:
 
 ```bash
-python laba8_variant9_power.py
+python laba8.py
 ```
 
 После запуска результаты появятся в папке:
